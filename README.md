@@ -32,7 +32,7 @@ Why does an asylum seeker choose one country over another? This project evaluate
 ### Key Findings :
 * **Push Factor** : Political repression and lack of freedom in the origin country are strong drivers of exile.
 * **Pull Factor** : The pre-existing **diaspora network** is the most robust determinant of the chosen destination, strongly amplified by a shared common language
-* **Non-significant Factors** : Once networks and fixed effects are controlled for, geographic distance and economic wealth (GDP and HDI) do not significantly dictate the final destination. It was unattended because we can see in some medias that refugees come in Europe for economic reasons.
+* **Non-significant Factors** : Once networks and fixed effects are controlled for, geographic distance and economic wealth (GDP and HDI) do not significantly dictate the final destination. It was unexpected because we can see in some medias that refugees come in Europe for economic reasons.
 
 ##  Technologies and Libraries
 * **R**
