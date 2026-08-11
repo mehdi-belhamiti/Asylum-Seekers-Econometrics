@@ -1,4 +1,4 @@
-# Econometric Analysis of Asylum Seekers Destination Choices 🌍
+# Econometric Analysis of Asylum Seekers Destination Choices
 
 This repository contains an applied econometrics project developed in **R** for the module **Bi-disciplinary Project** during my Double Bachelor's Degree in Economics and Mathematics at **University Paris-Saclay**. 
 
